@@ -1,5 +1,4 @@
 # Employee-Management-System-SQL-Project
-# Employee-Management-System-SQL-Project
 
 A complete relational database project designed to simulate real-world HR operations using SQL.  
 This system manages employees, departments, salaries, bonuses, qualifications, leaves, and payroll processing within a structured and normalized database model.
